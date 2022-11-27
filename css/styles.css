@@ -510,6 +510,7 @@ margin-left: auto;
 display: flex;
 flex-direction: column;
 }
+
 .footer-label {
   margin-bottom: 20px;
 }
@@ -528,6 +529,7 @@ margin-right: 12px;
   padding-left: 15px;
   
 }
+
 /* Modal */
 .backdrop {
   position: fixed;
